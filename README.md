@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **safaebouzianne-gif/safaebouzianne-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  🇲🇦 Morocco &nbsp;•&nbsp; 🎓 Master's Student &nbsp;•&nbsp; 🚀 Software Developer
+  🇲🇦 Morocco &nbsp;•&nbsp; 🎓 Master's degree &nbsp;•&nbsp; 🚀 Software Developer
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bouziane-safae-271392173)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/safaebouzianne-gif">
