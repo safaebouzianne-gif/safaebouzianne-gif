@@ -26,19 +26,12 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 
 ## Tech Stack
 
-### Programming Languages
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -46,53 +39,23 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-### Backend
-
-<p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### Mobile Development
-
-<p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-### Databases
-
-<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### APIs & Authentication
-
-<p align="left">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### AI & Real-Time
-
-<p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white"/>
-</p>
-
-### DevOps & Tools
-
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -136,45 +99,69 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 
 ## Featured Projects
 
-### ShifaTech — Healthcare Super App
+<p align="center"> <i>Real-world projects built with passion and modern technologies.</i> </p>
 
-A digital healthcare platform designed to connect **patients, doctors,
-pharmacies and healthcare services** in one ecosystem.
+<table> <tr>
 
-#### Key Features
+<!-- ======================= SHIFATECH ======================= -->
 
-* 👨‍⚕️ Doctor management
-* 📅 Appointment booking
-* 📹 Video consultations
-* 💊 Pharmacy integration
-* 🏠 Home healthcare services
-* 📋 Medical records
-* 🤖 AI-powered symptom analysis
-* 🔐 Secure authentication
+<td width="50%" valign="top">
 
-**Tech Stack**
+<h3 align="center">🏥 ShifaTech</h3>
 
-`Laravel` `React` `flutter` `Supabase` `nvidia ia` `Agora` `JWT`
+<p align="center"> <b>Healthcare Super App</b> </p>
 
----
+<p align="center"> A digital healthcare platform connecting patients, doctors, pharmacies and healthcare services in one ecosystem. </p>
 
-### Sapharma
+<h4>✨ Key Features</h4>
 
-A pharmacy/parapharmacy management solution designed to manage products,
-inventory and users.
+👨‍⚕️ Doctor management
+📅 Appointment booking
+📹 Video consultation
+💊 Pharmacy integration
+🏠 Home healthcare services
+📋 Medical records
+🤖 AI-powered symptom analysis
+🔐 Secure authentication
 
-#### Key Features
+<h4>🛠️ Tech Stack</h4>
 
-📦 Stock Management
-🧾 Product Management
-👥 User Management
+<p align="center"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> </p>
+
+<p align="center"> <a href="YOUR_SHIFATECH_DEMO_URL"> <img src="https://img.shields.io/badge/🔗_View_Project-6C63FF?style=for-the-badge"/> </a> <br><br> <a href="YOUR_SHIFATECH_GITHUB_URL"> <img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+
+</td>
+
+<!-- ======================== SAPHARMA ======================== -->
+
+<td width="50%" valign="top">
+
+<h3 align="center">💊 Sapharma</h3>
+
+<p align="center"> <b>Pharmacy Management App</b> </p>
+
+<p align="center"> A pharmacy/parapharmacy management application for managing products, inventory and users efficiently. </p>
+
+<h4>✨ Key Features</h4>
+
+📦 Stock management
+🧾 Product management
+👥 User management
 📊 Dashboard
-📱 Mobile Application
+📱 Mobile application
+📈 Inventory monitoring
 
-**Tech Stack**
+<h4>🛠️ Tech Stack</h4>
 
-`Angular` `spring boot` `MySQL`
+<p align="center"> <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </p>
 
+<p align="center"> <a href="YOUR_SAPHARMA_DEMO_URL"> <img src="https://img.shields.io/badge/🔗_View_Project-00AEEF?style=for-the-badge"/> </a> <br><br> <a href="YOUR_SAPHARMA_GITHUB_URL"> <img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+
+</td>
+
+</tr> </table>
+
+<p align="center"> <i>💡 Building ideas into digital solutions.</i> </p>
 ---
 
 ##  Languages
