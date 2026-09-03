@@ -25,7 +25,6 @@ Here are some ideas to get you started:
     src="./banner.png" 
     alt="Safae Bouziane - Full Stack Developer"
     width="100%"
-    height="60%"
   />
 </p>
 
@@ -139,7 +138,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 <a href="https://www.credly.com/badges/e73791c4-731c-4401-a277-b211bee74b73/public_url">
   <img src="./css-essentials(1).png" width="150"/>
 </a>
-
+<hspace></hspace>
 <a href="https://www.credly.com/badges/6037be57-011c-497e-bb53-e1ae05bba31f/public_url">
   <img src="./python-essentials-2(1).png" width="150"/>
 </a>
@@ -148,12 +147,6 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="./english-for-it-1(1).png" width="150"/>
 </a>
 
-</p>
-
-<p align="center">
-  <b>CSS Essentials</b> •
-  <b>Python Essentials 2</b> •
-  <b>English for IT 1</b>
 </p>
 
 <p align="center">
@@ -186,7 +179,7 @@ pharmacies and healthcare services** in one ecosystem.
 
 **Tech Stack**
 
-`Laravel` `React` `React Native` `Supabase` `OpenAI` `Agora` `JWT`
+`Laravel` `React` `flutter` `Supabase` `nvidia ia` `Agora` `JWT`
 
 ---
 
@@ -205,7 +198,7 @@ inventory and users.
 
 **Tech Stack**
 
-`React.js` `Laravel` `Flutter` `MySQL`
+`Angular` `spring boot` `MySQL`
 
 ---
 
