@@ -161,7 +161,6 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 
 </tr> </table>
 
-<p align="center"> <i>💡 Building ideas into digital solutions.</i> </p>
 ---
 
 ##  Languages
@@ -176,9 +175,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 
 <p align="center">
 
-<img 
-src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&hide_border=true&background_color=white"
-/>
+<img src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&hide_border=false&background=white"/>
 
 </p>
 
