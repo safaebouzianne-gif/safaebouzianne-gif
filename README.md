@@ -137,15 +137,15 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 <p align="center">
 
 <a href="https://www.credly.com/badges/e73791c4-731c-4401-a277-b211bee74b73/public_url">
-  <img src="https://www.credly.com/badges/e73791c4-731c-4401-a277-b211bee74b73/image" width="150"/>
+  <img src="./css-essentials(1).png" width="150"/>
 </a>
 
 <a href="https://www.credly.com/badges/6037be57-011c-497e-bb53-e1ae05bba31f/public_url">
-  <img src="https://www.credly.com/badges/6037be57-011c-497e-bb53-e1ae05bba31f/image" width="150"/>
+  <img src="./python-essentials-2(1).png" width="150"/>
 </a>
 
 <a href="https://www.credly.com/badges/9339b73b-068a-4b4b-81ee-3712a8ffa66b/public_url">
-  <img src="https://www.credly.com/badges/9339b73b-068a-4b4b-81ee-3712a8ffa66b/image" width="150"/>
+  <img src="./english-for-it-1(1).png" width="150"/>
 </a>
 
 </p>
@@ -283,7 +283,7 @@ src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&h
 </a>
 
 <a href="https://www.credly.com/">
-  <img src="https://img.shields.io/badge/Credly-Verified_Badges-orange?style=for-the-badge"/>
+  <img src="https://www.credly.com/users/safae-bouziane"/>
 </a>
 
 </p>
