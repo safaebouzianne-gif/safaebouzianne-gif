@@ -1,38 +1,13 @@
-
-
-<!--
-**safaebouzianne-gif/safaebouzianne-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ===================================================== -->
-
-<!--                    HEADER BANNER                       -->
-
-<!-- ===================================================== -->
-
+<div>
 <p align="center">
-  <img 
-    src="./banner.png" 
-    alt="Safae Bouziane - Full Stack Developer"
-    width="100%"
-  />
+  <img src="https://www.gitskins.com/api/section/hero?username=safaebouzianne-gif&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F250429502%3Fv%3D4" alt="safaebouzianne-gif hero visual" />
 </p>
 
-<h1 align="center">👋 Hello,</h1>
+</div>
 
 ---
-
-# 👩‍💻 About Me
+# 👋 Hello,
+## About Me
 
 I'm a passionate **Full-Stack Web & Mobile Developer** from Morocco 🇲🇦,
 interested in building modern, scalable and intelligent digital solutions.
@@ -49,9 +24,9 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
-## 💻 Programming Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -61,7 +36,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## 🎨 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -73,7 +48,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-## ⚙️ Backend
+### Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -82,7 +57,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-## 📱 Mobile Development
+### Mobile Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -90,7 +65,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-## 🗄️ Databases
+### Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -99,7 +74,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-## 🔐 APIs & Authentication
+### APIs & Authentication
 
 <p align="left">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
@@ -107,7 +82,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-## 🤖 AI & Real-Time
+### AI & Real-Time
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -115,7 +90,7 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
   <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white"/>
 </p>
 
-## ☁️ DevOps & Tools
+### DevOps & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -129,9 +104,9 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 
 ---
 
-# 🏆 Certifications & Badges
+## Certifications & Badges
 
-## 🎓 Cisco Networking Academy
+### Cisco Networking Academy
 
 <p align="center">
 
@@ -159,14 +134,14 @@ design and backend APIs to modern web/mobile interfaces and deployment.**
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🏥 ShifaTech — Healthcare Super App
+### ShifaTech — Healthcare Super App
 
 A digital healthcare platform designed to connect **patients, doctors,
 pharmacies and healthcare services** in one ecosystem.
 
-### ✨ Key Features
+#### Key Features
 
 * 👨‍⚕️ Doctor management
 * 📅 Appointment booking
@@ -183,12 +158,12 @@ pharmacies and healthcare services** in one ecosystem.
 
 ---
 
-## 💊 Sapharma
+### Sapharma
 
 A pharmacy/parapharmacy management solution designed to manage products,
 inventory and users.
 
-### ✨ Key Features
+#### Key Features
 
 📦 Stock Management
 🧾 Product Management
@@ -202,68 +177,27 @@ inventory and users.
 
 ---
 
-# 🎓 Education & Training
+##  Languages
 
-### 🎓 Master's Degree — Computer Science
-
-Focused on software engineering, information systems, databases,
-web/mobile development and artificial intelligence.
-
-### 💻 JobInTech — Web & Mobile Development
-
-Professional training focused on modern web and mobile application
-development.
-
----
-
-# 💼 Professional Experience
-
-### 👩‍💻 Medyouin — Internship
-
-Web and software development experience in a professional environment,
-working on practical development tasks and application development.
-
----
-
-# 🌍 Languages
-
-🇲🇦 **Arabic** — Native
+🇲🇦 **Arabic** — Native 
 🇫🇷 **French** — Professional
 🇬🇧 **English** — Professional
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Streak
 
 <p align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=safaebouzianne-gif&show_icons=true&theme=tokyonight&hide_border=true"
-height="170"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaebouzianne-gif&layout=compact&theme=tokyonight&hide_border=true"
-height="170"
+src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&hide_border=true&background_color=white"
 />
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img 
-src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
-# 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
 
@@ -275,8 +209,8 @@ src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&h
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.credly.com/">
-  <img src="https://www.credly.com/users/safae-bouziane"/>
+<a href="https://www.credly.com/users/safae-bouziane">
+  <img src="https://img.shields.io/badge/Credly-Verified_Badges-orange?style=for-the-badge""/>
 </a>
 
 </p>
@@ -287,8 +221,5 @@ src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&h
 
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
 
-<br>
-
-💡 <i>Building ideas into digital solutions.</i>
-
+</p>
 </p>
