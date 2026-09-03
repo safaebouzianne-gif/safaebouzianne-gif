@@ -25,27 +25,11 @@ Here are some ideas to get you started:
     src="./banner.png" 
     alt="Safae Bouziane - Full Stack Developer"
     width="100%"
+    height="60%"
   />
 </p>
 
-<h1 align="center">👋 Hello, I'm Safae Bouziane!</h1>
-
-<p align="center">
-  <b>💻 Full-Stack Developer • 📱 Web & Mobile Developer • 🤖 AI Enthusiast</b>
-</p>
-
-<p align="center">
-  🇲🇦 Morocco &nbsp;•&nbsp; 🎓 Master's degree &nbsp;•&nbsp; 🚀 Software Developer
-</p>
-
-<p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bouziane-safae-271392173)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/safaebouzianne-gif">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<h1 align="center">👋 Hello,</h1>
 
 ---
 
@@ -54,7 +38,7 @@ Here are some ideas to get you started:
 I'm a passionate **Full-Stack Web & Mobile Developer** from Morocco 🇲🇦,
 interested in building modern, scalable and intelligent digital solutions.
 
-🎓 Master's student in Computer Science
+🎓 Master's degree in data Science
 💻 Full-Stack Web Development
 📱 Web & Mobile Application Development
 🤖 Artificial Intelligence & Intelligent Applications
@@ -246,10 +230,6 @@ development.
 Web and software development experience in a professional environment,
 working on practical development tasks and application development.
 
-### 👩‍💻 YouNetwork — Internship
-
-Practical experience in web and software development.
-
 ---
 
 # 🌍 Languages
@@ -294,7 +274,7 @@ src="https://streak-stats.demolab.com?user=safaebouzianne-gif&theme=tokyonight&h
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/bouziane-safae-271392173">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
